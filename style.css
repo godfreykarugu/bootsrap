@@ -1,0 +1,44 @@
+
+
+header {
+    background: linear-gradient(160deg,#9ce562,#6a6a8f);
+}
+
+.text-primary{
+    color: #1212ff;
+}
+
+.img-logo {
+    width: 100%;
+    border-radius: 25px;
+    transition: transform 0.5s;
+}
+
+.img-logo:hover {
+
+transform: translateY(-10px);
+}
+
+.icons {
+    height: 32px;
+    width: 32px;
+    color: #082ff3;
+    background: #ffffff;
+    padding: 6px;
+    margin-bottom: 16px;
+}
+
+.blue-bg {
+    background: #1212ff;
+    color: #ffffff;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    border: none;
+    background: #082ff3;
+    color: #ffffff;
+}
+
+.nav-tabs{
+    border: none;
+}
